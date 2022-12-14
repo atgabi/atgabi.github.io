@@ -1,0 +1,51 @@
+body {
+    background-color: #97DECE;
+}
+
+h1 {
+    color: #453C67;
+}
+
+p {
+    color: #453C67;
+    text-align: left;
+}
+
+
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color:white;
+    height: 0px;
+    width: 10%;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    border-width: "2";
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
+}
+a {
+    text-align: "center";
+    display: block;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 12px;
+}
+
+div {
+    outline: none;
+    outline-width: 2px;
+    border: 2px outset dotted #453C67;
+    background-color:#97DECE;
+    margin: auto;
+    width: 30%;
+    align-items: center;
+    text-align: center;
+    display: block;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 16px;
+    justify-content: left;
+}
