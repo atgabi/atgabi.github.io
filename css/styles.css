@@ -41,7 +41,7 @@ div {
     border: 2px outset dotted #453C67;
     background-color:#97DECE;
     margin: auto;
-    width: 30%;
+    width: 40%;
     align-items: center;
     text-align: center;
     display: block;
@@ -49,3 +49,12 @@ div {
     font-size: 16px;
     justify-content: left;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+  }
