@@ -47,7 +47,7 @@ h3 {
 hr {
     border: dotted #E4F9F5 6px;
     border-bottom: none;
-    width: 10%;
+    width: 5%;
     margin: 30px auto 30px auto;
 }
 
@@ -72,14 +72,14 @@ table {
 }
 /*****************Container Identifiers************************************/
 .top-container {
-    background-color: #BCEAD5;
+    background-color: #EAF6F6;
     position: relative;
     padding-top: 100px;
   }
 
 .middle_container {
     display: block;
-    background-color: #82C3EC;
+    background-color: #9ED5D5;
     position: relative;
 }
 
@@ -90,7 +90,7 @@ table {
 }
 .bottom_container {
     display: block;
-    background-color: #DEF5E5;
+    background-color: #66BFBF;
     position: relative;
 }
 
@@ -118,7 +118,7 @@ table {
     text-align: center;
     vertical-align: center;
     font-size: 100%;
-    color: #62B6B7;
+    color: #11999E;
     font-family: 'Montserrat', serif;
 }
 
@@ -130,9 +130,9 @@ table {
     background-image: -ms-linear-gradient(top, #3498db, #2980b9);
     background-image: -o-linear-gradient(top, #3498db, #2980b9);
     background-image: linear-gradient(to bottom, #3498db, #2980b9);
-    -webkit-border-radius: 28;
-    -moz-border-radius: 28;
-    border-radius: 28px;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
     font-family: Arial;
     color: #ffffff;
     font-size: 16px;
