@@ -38,17 +38,19 @@ h1 {
 h2 {
     font-family: 'Montserrat', serif;
     font-weight: normal; 
+    color:#62B6B7;
 }
 
 h3 {
     font-family: 'Merriweather', serif;
+    color: #11999E;
 }
 
 hr {
     border: dotted #E4F9F5 6px;
     border-bottom: none;
     width: 5%;
-    margin: 30px auto 30px auto;
+    margin: 10px auto 10px auto;
 }
 
 p {
@@ -72,14 +74,14 @@ table {
 }
 /*****************Container Identifiers************************************/
 .top-container {
-    background-color: #EAF6F6;
+    background-color: #DEF5E5;
     position: relative;
     padding-top: 100px;
   }
 
 .middle_container {
     display: block;
-    background-color: #9ED5D5;
+    background-color: #BCEAD5;
     position: relative;
 }
 
@@ -90,22 +92,22 @@ table {
 }
 .bottom_container {
     display: block;
-    background-color: #66BFBF;
+    background-color: #9ED5D5;
     position: relative;
 }
 
 .skills {
     display: block;
-    background-color: #9ED5C5;
+    background-color: #BCEAD5;
 }
 
 .skill-row {
     display: block;
-    background-color: #9ED5C5;
+    background-color: #BCEAD5;
 }
 .contact-me {
     display: block;
-    background-color: #9ED5C5;
+    background-color: #BCEAD5;
 }
 .btn {
       font-family: 'Merriweather', serif;
@@ -120,6 +122,7 @@ table {
     font-size: 100%;
     color: #11999E;
     font-family: 'Montserrat', serif;
+    margin:10px 40px 10px 40px;
 }
 
 /*****************Button******************************/
